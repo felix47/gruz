@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "https://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>gruz</name>
+	<version>1.4</version>
+	<creationDate>4/13/2016</creationDate>
+	<author>Jak</author>
+	<authorEmail>admin@gruzovoy.org</authorEmail>
+	<copyright>Copyright (C) 2016 </copyright>
+	<description>TPL_GRUZ_XML_DESCRIPTION</description>
+	<files>
+		<filename>favicon.ico</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>css</folder>
+		<folder>fonts</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<folder>language</folder>
+	</files>
+	<positions>
+		<position>banner</position>
+		<position>debug</position>
+		<position>position-0</position>
+		<position>position-1</position>
+		<position>position-1-1</position>
+		<position>logo</position>
+		<position>position-2</position>
+		<position>position-3</position>
+		<position>position-4</position>
+		<position>position-5</position>
+		<position>position-6</position>
+		<position>position-7</position>
+		<position>position-8</position>
+		<position>position-9</position>
+		<position>position-10</position>
+		<position>position-11</position>
+		<position>position-12</position>
+		<position>position-13</position>
+		<position>position-14</position>
+		<position>footer</position>
+	</positions>
+	<languages folder="language">
+		<language tag="ru-RU">ru-RU/ru-RU.tpl_gruz.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.tpl_gruz.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+			<fieldset name="advanced">
+				<field name="gruz"  type="text" default=""
+					label="JGLOBAL_TITLE"
+					description="JFIELD_ALT_PAGE_TITLE_LABEL"
+					filter="string" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>
