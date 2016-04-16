@@ -43,3 +43,6 @@ body {
 .contacts-right p {
     float: right;
 }
+div.logo {
+    margin: 10px 0px;
+}
