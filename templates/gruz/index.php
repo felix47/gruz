@@ -39,8 +39,8 @@ else
 }
 
 // Add JavaScript Frameworks
-JHtml::_('bootstrap.framework');
-$doc->addScript($this->baseurl . '/templates/' . $this->template . '/js/bootstrap.js');
+//JHtml::_('bootstrap.framework');
+$doc->addScript($this->baseurl . '/templates/' . $this->template . '/js/bootstrap-1.js');
 
 // Add Stylesheets
 $doc->addStyleSheet($this->baseurl . '/templates/' . $this->template . '/css/bootstrap.css');
@@ -154,22 +154,46 @@ echo ($this->direction == 'rtl' ? ' rtl' : '');
 		<div class="container">
 			<!-- logo -->
 			<header class="logo" role="banner">
-				<div class="logo-inner clearfix">
-					<a class="brand pull-left" href="<?php echo $this->baseurl; ?>/">
-						<?php if ($this->countModules('logo')) : ?>
-							<div class="logo">
-								<jdoc:include type="modules" name="logo" style="none" />
-							</div>
-						<?php endif; ?>
-						<!--
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="logo-inner clearfix">
+							<a class="brand pull-left" href="<?php echo $this->baseurl; ?>/">
+								<?php if ($this->countModules('logo')) : ?>
+									<div class="logo">
+										<jdoc:include type="modules" name="logo" style="none" />
+									</div>
+								<?php endif; ?>
+								<!--
 							<?php echo $logo; ?>
 							<?php if ($this->params->get('sitedescription')) : ?>
 								<?php echo '<div class="site-description">' . htmlspecialchars($this->params->get('sitedescription')) . '</div>'; ?>
 							<?php endif; ?>
 							-->
-					</a>
-					<div class="header-search pull-right">
-						<jdoc:include type="modules" name="position-0" style="none" />
+							</a>
+							<!--
+                            <div class="header-search pull-right">
+                                <jdoc:include type="modules" name="position-0" style="none" />
+                            </div>
+                            -->
+						</div>
+					</div>
+					<div class="col-sm-6 hidden-xs cars">
+						<?php if ($this->countModules('logo-right')) : ?>
+							<div>
+								<!-- Begin Right Sidebar -->
+								<jdoc:include type="modules" name="logo-right" style="well" />
+								<!-- End Right Sidebar -->
+							</div>
+						<?php endif; ?>
+					</div>
+					<div class="col-sm-2 hidden-xs">
+						<?php if ($this->countModules('logo-contacts')) : ?>
+							<div>
+								<!-- Begin Right Sidebar -->
+								<jdoc:include type="modules" name="logo-contacts" style="well" />
+								<!-- End Right Sidebar -->
+							</div>
+						<?php endif; ?>
 					</div>
 				</div>
 			</header>

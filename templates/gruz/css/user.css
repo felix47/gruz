@@ -46,3 +46,7 @@ body {
 div.logo {
     margin: 10px 0px;
 }
+.cars img {
+    max-width: 100px;
+    margin-top: 65px;
+}
