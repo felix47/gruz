@@ -43,3 +43,21 @@ body {
 .contacts-right p {
     float: right;
 }
+div.logo {
+    margin: 10px 0px;
+}
+.cars img {
+    max-width: 100px;
+    margin-top: 65px;
+}
+form#form {
+    margin: 5px 30px;
+    text-align: center;
+}
+form#form legend {
+    margin-bottom: 0px;
+    font-weight: 800;
+}
+form#form .btn {
+    margin-top: 10px;
+}
