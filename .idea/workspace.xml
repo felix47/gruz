@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40c007ad-6053-47bc-a33b-20a337824481" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-16-white.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-16-white.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-16.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-48.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-ui-32.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-ui-32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-warning-48.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/akeeba-warning-48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/akeebabackup-16-black.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/akeebabackup-16-black.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/akeebabackup-16-red.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/akeebabackup-16-red.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/arrow_small.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/arrow_small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/changelog.png" afterPath="$PROJECT_DIR$/media/com_akeeba/changelog.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/error_small.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/error_small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/loading.gif" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/loading.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/logo-48.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/logo-48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/ok_small.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/ok_small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/reload.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/reload.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/scheduling-32.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/scheduling-32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/icons/update.png" afterPath="$PROJECT_DIR$/media/com_akeeba/icons/update.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_akeeba/backup/akeeba.log" afterPath="$PROJECT_DIR$/administrator/components/com_akeeba/backup/akeeba.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/theme/akeebaui.css" afterPath="$PROJECT_DIR$/media/com_akeeba/theme/akeebaui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/akeebaui.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/akeebaui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/akeebauipro.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/akeebauipro.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/alice.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/alice.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/backup.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/backup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/configuration.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/configuration.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/confwiz.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/confwiz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/dbef.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/dbef.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/eff.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/eff.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/encryption.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/encryption.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/fsfilter.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/fsfilter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/gui-helpers.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/gui-helpers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/multidb.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/multidb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/piecon.min.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/piecon.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/regexdbfilter.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/regexdbfilter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/regexfsfilter.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/regexfsfilter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/restore.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/restore.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/stepper.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/stepper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/system.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/system.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_akeeba/js/transfer.js" afterPath="$PROJECT_DIR$/media/com_akeeba/js/transfer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="gruz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="configuration.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/configuration.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-15.333333">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.061997704">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -164,6 +136,7 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/templates/gruz/css/user.css" />
         <option value="$PROJECT_DIR$/templates/gruz/index.php" />
+        <option value="$PROJECT_DIR$/configuration.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -180,9 +153,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="36" />
-    <option name="width" value="1906" />
-    <option name="height" value="1009" />
+    <option name="x" value="-2" />
+    <option name="y" value="33" />
+    <option name="width" value="1924" />
+    <option name="height" value="1016" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -276,14 +250,28 @@
       <option name="number" value="Default" />
       <updated>1460542565267</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit_18.04.16_08.38">
+      <created>1460958431568</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1460958431568</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit_18.04.16_08.49">
+      <created>1460958545817</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1460958545817</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="36" width="1906" height="1009" extended-state="4" />
-    <editor active="true" />
+    <frame x="-2" y="33" width="1924" height="1016" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25698924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25452608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -312,6 +300,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit_18.04.16_08.38" />
+    <MESSAGE value="commit_18.04.16_08.49" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_18.04.16_08.49" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -472,14 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0625">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/gruz/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.9875">
@@ -492,8 +477,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/configuration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.333333">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.061997704">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
